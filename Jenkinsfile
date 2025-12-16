@@ -3,8 +3,8 @@ pipeline {
     
     environment {
         DOCKERHUB_USERNAME = 'sky1912'
-        DOCKER_IMAGE = "${DOCKERHUB_USERNAME}/canara_sak"
-        DOCKER_CONTAINER = 'canara_app_sak'
+        DOCKER_IMAGE = "${DOCKERHUB_USERNAME}/canara_sky"
+        DOCKER_CONTAINER = 'canara_app_sky'
     }
 
     parameters {
