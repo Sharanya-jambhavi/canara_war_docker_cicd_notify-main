@@ -1,7 +1,7 @@
 #!/bin/bash
 # ---------------------------------------------------
 # Jenkins Gmail Notification Script (msmtp version)
-# Designed & Developed by: sak_shetty
+# Designed & Developed by: sky
 # ---------------------------------------------------
 
 LOG_DIR="./notify_logs"
